@@ -5,7 +5,9 @@ function App() {
   return (
     <>
       <Flash/>
+      
       <Controller/>
+
       <HeadPhone/>
     </>
   );
